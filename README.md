@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @justinacolmena the bee bot.
-- 👀 I’m interested in ... wikis, blogs, forums. PostgreSQL.
-- 🌱 I’m currently learning ... Rust and Rocket.
-- 💞️ I’m looking to collaborate on ... a brand new project of my own.
-- 📫 How to reach me ... best by email as I am banned off mainstream liberal social media.
+No questions.
+No answers.
+No discussion.
+
+There's people who do that kind of work and I don't,
+because they're professionals and I'm not.
 
 <!---
 justinacolmena/justinacolmena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
